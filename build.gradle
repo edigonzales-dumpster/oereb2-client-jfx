@@ -7,10 +7,12 @@ repositories {
     mavenCentral()
 }
 
+
 javafx {
-    version = "13"
+    version = "14"
     modules = [ 'javafx.controls' ]
 }
+
 
 mainClassName = 'HelloFX'
 
